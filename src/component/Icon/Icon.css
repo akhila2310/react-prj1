@@ -1,0 +1,17 @@
+.icon{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background-color: black;
+    color: white;
+    height: 130.83px;
+}
+.icon1{
+    margin: 68px 46.31px 46.31px;
+}
+.icon4{
+    gap: 181.34px;
+}
+.icon5{
+    margin-right: 68px;
+}

@@ -1,0 +1,92 @@
+.grid{
+    height: 513px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background-color: black;
+}
+.gridleft{
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    justify-content: space-between;
+    background-color: gray;
+    height: 429px;
+   margin: 42px 24px 42px 24px;
+}
+.gridleft1{
+    margin: 64px 135.33px 0px 135.33px;
+}
+.gridleft2{
+    margin: 42px 42px 0px 42px;
+}
+.gridleft3{
+    margin: 12px 42px 64px 42px;
+    line-height: 27px;
+}
+.gridmid{
+    text-align: center;
+    justify-content: space-between;
+    background-color: gray;
+    height: 429px;
+    margin: 42px 24px 42px 24px;
+}
+.gridmid1{
+    margin: 64px 135.33px 0px 135.33px;
+}
+.gridmid2{
+    margin: 42px 42px 0px 42px;
+}
+.gridmid3{
+margin: 12px 42px 64px 42px;
+line-height: 27px;
+}
+.gridright{
+    text-align: center;
+    justify-content: space-between;
+    background-color: gray;
+    height: 429px;
+    margin: 42px 24px 42px 24px;
+}
+.gridright1{
+    margin: 64px 135.33px 0px 135.33px;
+}
+.gridright2{
+    margin: 42px 42px 0px 42px;
+}
+.gridright3{
+    margin: 12px 42px 64px 42px;
+    line-height: 27px;
+}
+.gridleft2{
+    font-style: SemiBold;
+    font-size: 27px;
+    color: #FFFFFF;
+}
+.gridleft3{
+font-style: Regular;
+font-size: 17px;
+color:#c2bbbb ;
+}
+
+.gridmid2{
+    font-style: SemiBold;
+    font-size: 27px;
+    color: #FFFFFF;
+}
+.gridmid3{
+font-style: Regular;
+font-size: 17px;
+color:#c2bbbb ;
+}
+
+.gridright2{
+    font-style: SemiBold;
+    font-size: 27px;
+    color: #FFFFFF;
+}
+.gridright3{
+font-style: Regular;
+font-size: 17px;
+color:#c2bbbb ;
+}

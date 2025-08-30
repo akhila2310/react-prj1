@@ -1,0 +1,23 @@
+.header{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background-color: black;
+    height: 70px;
+    
+}
+.headerleft{
+    width: 49px;
+    height: 30px;
+    margin: 24px 0 24px 42px;
+    color: #FFFFFF;
+}
+.headerright{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin: 25.5px 42px 25.5px  0px;
+    color: #FFFFFF;
+    gap: 24px;
+    
+}
