@@ -1,0 +1,62 @@
+.banner{
+   background-color:gray ;
+   height:444px ;
+   display: flex;
+   align-items: center;
+   justify-content: space-between;
+   gap: 68px;
+  
+}
+.bannerleft{
+    margin: 58px 0px 58px 56px;
+    height: 328px;
+    gap: 48px;
+}
+.bannerleft1{
+font-size: 20px;
+line-height: 30px;
+font-weight: 600px;
+color: #FFFFFF;
+margin-bottom: 24px;
+
+
+}
+.bannerleft2{
+    font-size: 50px;
+    font-weight: 600px;
+    line-height: 100%;
+    color: #FFFFFF;
+    margin-top: 24px;
+
+}
+.bannerleft3{
+    font-weight: 400px;
+    font-size: 17px;
+    line-height: 27px;
+    color: #c5c5c5;
+    margin-top: 24px;
+}
+
+button{
+    height: 78px;
+    width: 211px;
+    color: black;
+    position: absolute;
+    right: 64px;
+
+    left: 64px;
+    padding: 20px;
+    margin-top: 24px;
+
+
+
+    
+
+}
+.bannerimage{
+   
+    margin-right: 56px;
+    margin-top: 42px;
+    margin-bottom: 42px;
+    
+}

@@ -1,0 +1,27 @@
+[33mcommit 7c2d1ca3df4fae896d6868bcffaf8bee70e169b5[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m
+Author: akhila <akhilakallangai23@gmail.com>
+Date:   Sun Nov 2 20:10:10 2025 +0530
+
+    Added frontend, backend, and admin code
+
+[1mdiff --git a/ADMIN/admin b/ADMIN/admin[m
+[1mnew file mode 160000[m
+[1mindex 0000000..925e2f8[m
+[1m--- /dev/null[m
+[1m+++ b/ADMIN/admin[m
+[36m@@ -0,0 +1 @@[m
+[32m+[m[32mSubproject commit 925e2f80c5526c5c09c6b9bacbff116a440f307f[m
+[1mdiff --git a/frontend b/frontend[m
+[1mnew file mode 160000[m
+[1mindex 0000000..c6dfaf5[m
+[1m--- /dev/null[m
+[1m+++ b/frontend[m
+[36m@@ -0,0 +1 @@[m
+[32m+[m[32mSubproject commit c6dfaf55b5221be30e1ec441d6190642f8bf36ff[m
+[1mdiff --git a/tatus b/tatus[m
+[1mnew file mode 100644[m
+[1mindex 0000000..005ee5a[m
+[1m--- /dev/null[m
+[1m+++ b/tatus[m
+[36m@@ -0,0 +1 @@[m
+[32m+[m[32m* [32mmaster[m[m
